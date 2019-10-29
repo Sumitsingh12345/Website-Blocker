@@ -1,7 +1,7 @@
 import time
 from datetime import datetime as dt
 
-website_list = ['www.facebook.com', 'facebook.com', 'www.twitter.com', 'twitter.com']
+website_list = ['m.facebook.com', 'facebook.com', 'www.twitter.com', 'twitter.com']
 redirect = '127.0.0.1'
 hosts_path = r'C:\Windows\System32\drivers\etc\hosts'
 
